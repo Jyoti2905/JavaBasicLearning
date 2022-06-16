@@ -21,6 +21,7 @@ public class Array {
 		String r3=r1+r2;
 		int i1=Integer.parseInt(r3);
 				System.out.println(i1);
+		System.out.println("test");
 	}
 
 }
